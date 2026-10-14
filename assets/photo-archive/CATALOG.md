@@ -4,7 +4,7 @@ Tags: facade, door, keys, contract, empty-room, chair, interior, portrait(4:5), 
 
 | file | tags | used |
 |---|---|---|
-| door-ajar-balcony-olive-pot_wide | facade door olive balcony | borsa slide 1 (replaced as cover) |
+| door-ajar-balcony-olive-pot_wide | facade door olive balcony | - (cover candidate, not used) |
 | keys-blank-paper-window-left_wide | keys contract table window | borsa contract slide 14.10 |
 | empty-room-chair-window_wide | empty-room chair terracotta | borsa "От автора" bg 14.10 |
 | arched-door-ajar-stone-wall_wide | facade arched-door stone | - |
