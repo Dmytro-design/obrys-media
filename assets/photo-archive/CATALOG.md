@@ -4,13 +4,13 @@ Tags: facade, door, keys, contract, empty-room, chair, interior, portrait(4:5), 
 
 | file | tags | used |
 |---|---|---|
-| door-ajar-balcony-olive-pot_wide | facade door olive balcony | borsa cover (@dima_pich) 14.10 |
+| door-ajar-balcony-olive-pot_wide | facade door olive balcony | borsa slide 1 (replaced as cover) |
 | keys-blank-paper-window-left_wide | keys contract table window | borsa contract slide 14.10 |
 | empty-room-chair-window_wide | empty-room chair terracotta | borsa "От автора" bg 14.10 |
 | arched-door-ajar-stone-wall_wide | facade arched-door stone | - |
 | triptych-street-arched-door-1_wide | facade triptych (cut into singles) | - |
 | triptych-facades-green-door-2_wide | facade triptych (cut into singles) | - |
-| facade-gable-roof-bench_portrait | facade gable bench | - |
+| facade-gable-roof-bench_portrait | facade gable bench | borsa cover (@dima_pich) 14.10 |
 | facade-neoclassical-olive-shutters_portrait | facade neoclassical shutters | - |
 | facade-dormers-olive-door_portrait | facade dormers door | - |
 | facade-three-floor-olive-door_portrait | facade balconies door | - |
